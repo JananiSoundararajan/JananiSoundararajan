@@ -1,90 +1,111 @@
-<!-- 🏁 Papaya Orange McLaren Banner -->
+<!-- 🧡 McLaren Papaya Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Hi%20🏎️%20I'm%20Janani%20Soundara%20Rajan&fontAlign=40&fontSize=40&fontColor=ffffff&colorGradient=orange:gray" />
-</p>
-
-<h3 align="center">⚡ Final-Year AI Engineer | 🧠 Speed + Precision = My DNA | 🧡 Built Different</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=800&center=true&vCenter=true&width=520&lines=Driven+by+instinct.+Guided+by+data.;Like+a+winner+%F0%9F%8F%86;Race-ready+AI+Engineer;McLaren+Mindset%2C+Code+Crafted" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=🏁%20Janani%20Soundara%20Rajan%20🧡&fontAlign=50&fontSize=38&fontColor=ffffff&desc=Crafting%20AI.%20Driving%20Impact.%20Like%20a%20Winner.&descAlign=50&descSize=18&colorGradient=ff6f00:0d0d0d" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jananisoundararajan"><img src="https://img.shields.io/badge/LinkedIn-Connect-orange?style=flat-square&logo=linkedin&logoColor=white&color=ff7f11" /></a>
-  <a href="mailto:jananisoundararajan18@gmail.com"><img src="https://img.shields.io/badge/Gmail-jananisoundararajan18%40gmail.com-black?style=flat-square&logo=gmail" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=FF6F00&center=true&vCenter=true&width=500&lines=Engineer%20of%20Speed.;Architect%20of%20Precision.;Powered%20by%20Purpose." />
 </p>
-
----
-
-## 🧬 About Me
-
-🏁 I’m **Janani**, a **final-year AI & DS undergrad** with a McLaren-coded mindset:  
-**Speed + Precision + Real-World Impact.**  
-
-I don’t just build projects. I *engineer wins* using:
-- 🧠 Deep Learning & NLP
-- ⚙️ Cloud AI & ML Pipelines
-- 🛰️ Satellite Vision, Medical AI, Conservation Tech
-
-> “If you’re not building fast, you’re falling behind.” – Me (probably)
-
----
-
-## 🔥 Performance Projects
-
-| 🛠️ Project | 🔍 Summary | 📈 Numbers |
-|------------|------------|------------|
-| **👁️ Retinal AI** | CNN for blindness detection | Acc: 82%, F1: 0.79 |
-| **🛰️ SAR Colorization** | Grayscale → Color for satellites | MSE: 0.034 |
-| **🦉 Wildlife Sound Classifier** | CNN ensemble for environment | Acc: 84%, Prec: 0.87 |
-| **🦴 Bone Fracture Detector** | Segmentation-based X-ray AI | Acc: 88%, IoU: 0.76 |
-
----
-
-## 🧰 Tech Stack — Optimized for Speed
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,html,css,js,java,c,streamlit,git,github,gcp,vscode,figma&theme=light" />
-</p>
-
----
-
-## 🛞 Currently in the Pit Lane (Learning)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=FFA500&center=true&vCenter=true&width=460&lines=LangChain+%26+RAG;Explainable+AI+%F0%9F%93%8A;Cloud+AI+Deployment;Fine-Tuning+LLMs;Speeding+Up+Inference" />
-</p>
-
----
-
-## 📊 My GitHub Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jananisoundararajan&show_icons=true&hide_border=true&theme=radical&title_color=ff7f11&icon_color=ff7f11" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jananisoundararajan&theme=radical&hide_border=true&ring=ff7f11&fire=ff7f11&currStreakLabel=ff7f11" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananisoundararajan&layout=compact&theme=radical&hide_border=true&title_color=ff7f11" />
-</p>
-
----
-
-## 🧭 Let’s Race Together
 
 <p align="center">
   <a href="https://linkedin.com/in/jananisoundararajan">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedUp-orange?style=for-the-badge&logo=linkedin&logoColor=white&color=ff7f11" />
+    <img src="https://img.shields.io/badge/LinkedIn-Janani%20Soundara%20Rajan-ff6f00?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jananisoundararajan18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Start+Engines-black?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-jananisoundararajan18@gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 WHO I AM
+
+> “I don't code for the sake of code. I build AI that **wins**.”
+
+- 🏎️ **AI & DS Final-year @ SEC**
+- 🧠 Focused on: ML, DL, LLMs, Vision
+- ☁️ Exploring Cloud AI, RAG, Explainable ML
+- 🧡 Real-world problems in Healthcare, Sustainability & Edge AI
+
+---
+
+## ⚙️ PIT GARAGE (My Stack)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,c,js,react,html,css,streamlit,git,gcp,vscode,figma&theme=light" />
+</p>
+
+---
+
+## 🔥 PERFORMANCE UPGRADES (Projects)
+
+| Project 🚀 | Tech Used ⚙️ | Metrics 📊 |
+|------------|----------------|-----------|
+| **Retinal Blindness AI** | CNN, OpenCV | 🎯 82% Accuracy, F1 0.79 |
+| **SAR Image Colorization** | CNN, Radar Data | 🌈 MSE: 0.034 |
+| **Wildlife Audio Classifier** | Ensemble CNN | 🎧 Acc: 84%, Prec: 0.87 |
+| **X-ray Fracture Detection** | Segmentation | 🦴 IoU: 0.76, Acc: 88% |
+
+---
+
+## 🏁 TELEMETRY (Real-Time Stats)
+
+<!-- 📊 GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jananisoundararajan&show_icons=true&hide_border=true&theme=github_dark&title_color=ff6f00&icon_color=ff6f00" />
+</p>
+
+<!-- 🔥 GitHub Contribution Graph (Resized) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jananisoundararajan&theme=react-dark&bg_color=0d0d0d&color=ff6f00&line=ff6f00&point=ffffff&area=true&hide_border=true" width="50%" height="320px" />
+</p>
+
+<!-- 🧠 Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananisoundararajan&layout=compact&theme=github_dark&hide_border=true&title_color=ff6f00" />
+</p>
+
+
+---
+
+## 🎧 CURRENTLY IN PIT STRATEGY
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=100&color=FF6F00&center=true&vCenter=true&width=460&lines=Fine-tuning+LLMs+%F0%9F%93%96;Building+Cloud+AI+Pipelines+%E2%9B%BD%EF%B8%8F;Zero-Shot+Vision+%F0%9F%96%A5%EF%B8%8F;Explainable+ML+%F0%9F%8C%8F;Deploying+Models+on+Edge+%F0%9F%92%BB" />
+</p>
+
+---
+
+## 👑 LEADERSHIP MODE
+
+- 🎙️ **Co-Chair**, Yuva Club – Child Safety & Social Impact
+- 🧩 **Coordinator**, Drestein 2024 – Hackathons, Workshops, AI Demos
+
+---
+
+## 🎓 CERTIFICATIONS THAT FUEL THE RIDE
+
+- 📸 *OpenCV Image Processing with Python* – Infosys Springboard  
+- ⚙️ *CUDA 10 Programming* – Infosys Springboard  
+- 📊 *Data Analytics with Python* – NPTEL
+
+---
+
+## 🤝 LET’S COLLAB AT FULL SPEED
+
+<p align="center">
+  <a href="https://linkedin.com/in/jananisoundararajan">
+    <img src="https://img.shields.io/badge/LinkedIn-Collaborate%20with%20me-ff6f00?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jananisoundararajan18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=orange" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ff6f00" />
 </p>
 
-<p align="center"><i>“Like a winner.” 🏁</i><br><i>“Driven by instinct. Guided by data.”</i></p>
+<p align="center"><i>“Like a winner.”</i><br><i>“Driven by instinct. Tuned by data.”</i></p>
