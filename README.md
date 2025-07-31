@@ -1,7 +1,8 @@
 <!-- 🏁 McLaren Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20🚀%20I'm%20Janani%20Soundara%20Rajan&fontAlign=40&fontColor=ffffff&colorGradient=orange:gray" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20🚀%20I'm%20Janani%20Soundara%20Rajan&fontAlign=40&fontSize=35&fontColor=ffffff&colorGradient=orange:gray" />
 </p>
+
 
 <h3 align="center">🏎️ AI + Speed | McLaren-Coded | Fueled by Curiosity 💡</h3>
 
