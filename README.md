@@ -74,22 +74,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/jananisoundararajan/jananisoundararajan/blob/output/github-contribution-grid-snake.svg)
-
-<sub>Auto-generated with [Platane/snk](https://github.com/Platane/snk). You'll need to configure GitHub Actions to keep it updated.</sub>
-
----
-
-### 🎧 Coding Vibes
-
-[![Spotify](https://novatorem-omega-six.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
-<sub>Hosted via [novatorem](https://github.com/novatorem/novatorem). Replace "yourusername" with your Spotify ID.</sub>
-
----
-
 ### 📊 My GitHub Space
 
 <p align="center">
